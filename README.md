@@ -60,7 +60,7 @@ Este proyecto fue desarrollado para demostrar fundamentos sólidos en el desarro
 
 ## Autor:
 
-Santiago López (Dikko)
+Magbis Mizraim Santiago López
 - Universidad Politécnica de Altamira (Ingeniería / Desarrollo Web)
 - LinkedIn: [Tu_Enlace_De_LinkedIn]
 - Portafolio: [Tu_Enlace_De_Portafolio_o_GitHub]
