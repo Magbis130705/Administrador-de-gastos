@@ -1,4 +1,3 @@
-<img width="1366" height="643" alt="Captura de pantalla 2026-09-19 214114" src="https://github.com/user-attachments/assets/4a845384-9f24-4937-8572-6e40859e0694" />
 # Personal Finance Dashboard - Offline Web App
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
