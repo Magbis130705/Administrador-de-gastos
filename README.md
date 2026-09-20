@@ -58,7 +58,7 @@ Este proyecto fue desarrollado para demostrar fundamentos sólidos en el desarro
 
 ## Autor:
 
-Magbis Mizraim Santiago López
+Magbis Mizraim Santiago López, Martha Patricia Soriano Mosqueira
 - Universidad Politécnica de Altamira (Ingeniería / Desarrollo Web)
 - LinkedIn: [Tu_Enlace_De_LinkedIn]
 - Portafolio: [Tu_Enlace_De_Portafolio_o_GitHub]
