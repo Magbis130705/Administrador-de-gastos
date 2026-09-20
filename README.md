@@ -1,3 +1,4 @@
+<img width="1366" height="643" alt="Captura de pantalla 2026-09-19 214114" src="https://github.com/user-attachments/assets/4a845384-9f24-4937-8572-6e40859e0694" />
 # Personal Finance Dashboard - Offline Web App
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -50,6 +51,7 @@ Este proyecto fue desarrollado para demostrar fundamentos sólidos en el desarro
 
 ## Capturas de Pantalla:
 
+<img width="683" height="323" alt="Captura de pantalla 2026-09-19 214114" src="https://github.com/user-attachments/assets/4a845384-9f24-4937-8572-6e40859e0694" />
 <img width="683" height="323" alt="Captura de pantalla 2026-09-19 213811" src="https://github.com/user-attachments/assets/68aba4c9-f5ef-44ce-8368-395a44a30fbf" />
 <img width="683" height="323" alt="Captura de pantalla 2026-09-19 213721" src="https://github.com/user-attachments/assets/669e1aa7-2cdb-41bf-a012-9b960d42beb0" />
 
